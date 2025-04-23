@@ -9,6 +9,8 @@
 
 ###
 
+<p align="left">Note: Most of my repositories are private to protect my ongoing work and ideas.</p>
+
 
 ###
 
