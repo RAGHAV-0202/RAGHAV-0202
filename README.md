@@ -72,7 +72,7 @@
 
 ###
 
-<h1 align="left">MERN STACK DEVELOPER</h2>
+<h3 align="left">MERN STACK DEVELOPER</h3>
 
 ###
 
