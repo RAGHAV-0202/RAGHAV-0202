@@ -18,27 +18,6 @@
 
 ---
 
-### 🏢 Commercial Multi-Tenant SaaS Systems ([Architecture Showcase](https://github.com/RAGHAV-0202/saas-erp-suite))
-
-*(Full source in private commercial repo — public architecture, ERDs, state machines &amp; live deployments in [`saas-erp-suite`](https://github.com/RAGHAV-0202/saas-erp-suite))*
-
-- 💊 **[PharmaERP](https://erp-indol-one.vercel.app)** ([Architecture](https://github.com/RAGHAV-0202/saas-erp-suite/tree/main/pharma-erp)) — Multi-tenant pharmacy &amp; wholesale ERP (`Next.js 16`, `Neon PostgreSQL RLS`, `Prisma 7`, `Razorpay`, `Vitest + fast-check`) with integer-paise GST math and atomic batch inventory ledgers.
-- 🏫 **[Scholr (EduFlow)](https://lms-lovat-gamma.vercel.app)** ([Architecture](https://github.com/RAGHAV-0202/saas-erp-suite/tree/main/scholr-school-erp)) — Multi-tenant K-12 School ERP (`84 Prisma models`, subdomain RLS, `6 Upstash QStash crons`, Puppeteer PDFs, WhatsApp/SMS/Web Push) + Android TWA.
-- 🧾 **[TaxFlow GST](https://github.com/RAGHAV-0202/saas-erp-suite/tree/main/taxflow-gst)** — Automated GSTR-1 &amp; GSTR-3B filing SaaS for e-commerce sellers &amp; CAs (`big.js` math, AJV NIC schema validation, 5-stage GSP filing state machine, BullMQ + QStash).
-
----
-
-### 🚀 Featured Open-Source & AI Work
-
-- 🎓 **[PIET Research Incentive System](https://incentives.piet.co.in)** ([Frontend](https://github.com/RAGHAV-0202/piet-p1) • [Backend](https://github.com/RAGHAV-0202/piet-p1-backend)) — Live college-wide production platform that has processed **₹15,00,000+ (₹15L+)** in faculty research incentive claims.
-- 🔍 **[RepoLens](https://repolens.xyz)** ([Repo](https://github.com/RAGHAV-0202/RepoLens)) — AI-powered GitHub repository intelligence with architecture tours, security scorecards, impact analysis, and codebase Q&amp;A.
-- 📄 **[Agentic AI Resume Generator](https://agentic-resume.vercel.app)** ([Repo](https://github.com/RAGHAV-0202/Agentic-Ai-Resume-Generator)) — Conversational Groq AI resume builder with real-time `pdflatex` PDF compilation and admin analytics.
-- 🧠 **[Ai Arena](https://aiarenas.app)** ([Repo](https://github.com/RAGHAV-0202/Ai_Arena)) — Full-stack MERN multi-AI chat platform comparing ChatGPT, Gemini, and Llama responses side-by-side.
-- 📊 **[Social Media Insights SaaS](https://social-media-insights-saa-s.vercel.app)** ([Repo](https://github.com/RAGHAV-0202/Social-Media-Insights-SaaS)) — Automated BYOK social analytics dashboard with scheduled `node-cron` sync and AI briefs.
-- ⚡ **[HackFlow](https://hack-flow-eta.vercel.app)** ([Repo](https://github.com/RAGHAV-0202/HackFlow)) — All-in-one hackathon management platform for teams, submissions, and organizer analytics.
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="left">
@@ -75,6 +54,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
+<br />
+
+<img src="https://raw.githubusercontent.com/RAGHAV-0202/RAGHAV-0202/output/snake.svg" alt="Snake animation" />
+
+---
+
+### 🏢 Commercial Multi-Tenant SaaS Systems ([Architecture Showcase](https://github.com/RAGHAV-0202/saas-erp-suite))
+
+*(Full source in private commercial repo — public architecture, ERDs, state machines &amp; live deployments in [`saas-erp-suite`](https://github.com/RAGHAV-0202/saas-erp-suite))*
+
+- 💊 **[PharmaERP](https://erp-indol-one.vercel.app)** ([Architecture](https://github.com/RAGHAV-0202/saas-erp-suite/tree/main/pharma-erp)) — Multi-tenant pharmacy &amp; wholesale ERP (`Next.js 16`, `Neon PostgreSQL RLS`, `Prisma 7`, `Razorpay`, `Vitest + fast-check`) with integer-paise GST math and atomic batch inventory ledgers.
+- 🏫 **[Scholr (EduFlow)](https://lms-lovat-gamma.vercel.app)** ([Architecture](https://github.com/RAGHAV-0202/saas-erp-suite/tree/main/scholr-school-erp)) — Multi-tenant K-12 School ERP (`84 Prisma models`, subdomain RLS, `6 Upstash QStash crons`, Puppeteer PDFs, WhatsApp/SMS/Web Push) + Android TWA.
+- 🧾 **[TaxFlow GST](https://github.com/RAGHAV-0202/saas-erp-suite/tree/main/taxflow-gst)** — Automated GSTR-1 &amp; GSTR-3B filing SaaS for e-commerce sellers &amp; CAs (`big.js` math, AJV NIC schema validation, 5-stage GSP filing state machine, BullMQ + QStash).
+
+---
+
+### 🚀 Featured Open-Source & AI Work
+
+- 🎓 **[PIET Research Incentive System](https://incentives.piet.co.in)** ([Frontend](https://github.com/RAGHAV-0202/piet-p1) • [Backend](https://github.com/RAGHAV-0202/piet-p1-backend)) — Live college-wide production platform that has processed **₹15,00,000+ (₹15L+)** in faculty research incentive claims.
+- 🔍 **[RepoLens](https://repolens.xyz)** ([Repo](https://github.com/RAGHAV-0202/RepoLens)) — AI-powered GitHub repository intelligence with architecture tours, security scorecards, impact analysis, and codebase Q&amp;A.
+- 📄 **[Agentic AI Resume Generator](https://agentic-resume.vercel.app)** ([Repo](https://github.com/RAGHAV-0202/Agentic-Ai-Resume-Generator)) — Conversational Groq AI resume builder with real-time `pdflatex` PDF compilation and admin analytics.
+- 🧠 **[Ai Arena](https://aiarenas.app)** ([Repo](https://github.com/RAGHAV-0202/Ai_Arena)) — Full-stack MERN multi-AI chat platform comparing ChatGPT, Gemini, and Llama responses side-by-side.
+- 📊 **[Social Media Insights SaaS](https://social-media-insights-saa-s.vercel.app)** ([Repo](https://github.com/RAGHAV-0202/Social-Media-Insights-SaaS)) — Automated BYOK social analytics dashboard with scheduled `node-cron` sync and AI briefs.
+- ⚡ **[HackFlow](https://hack-flow-eta.vercel.app)** ([Repo](https://github.com/RAGHAV-0202/HackFlow)) — All-in-one hackathon management platform for teams, submissions, and organizer analytics.
+
 ---
 
 ### 📫 Connect With Me
@@ -90,7 +94,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
-
-<br />
-
-<img src="https://raw.githubusercontent.com/RAGHAV-0202/RAGHAV-0202/output/snake.svg" alt="Snake animation" />
