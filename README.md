@@ -9,6 +9,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAGHAV-0202&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAGHAV-0202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
+
 ### 🏢 Commercial Multi-Tenant SaaS Systems ([Architecture Showcase](https://github.com/RAGHAV-0202/saas-erp-suite))
 
 *(Full source in private commercial repo — public architecture, ERDs, state machines &amp; live deployments in [`saas-erp-suite`](https://github.com/RAGHAV-0202/saas-erp-suite))*
@@ -27,15 +36,6 @@
 - 🧠 **[Ai Arena](https://aiarenas.app)** ([Repo](https://github.com/RAGHAV-0202/Ai_Arena)) — Full-stack MERN multi-AI chat platform comparing ChatGPT, Gemini, and Llama responses side-by-side.
 - 📊 **[Social Media Insights SaaS](https://social-media-insights-saa-s.vercel.app)** ([Repo](https://github.com/RAGHAV-0202/Social-Media-Insights-SaaS)) — Automated BYOK social analytics dashboard with scheduled `node-cron` sync and AI briefs.
 - ⚡ **[HackFlow](https://hack-flow-eta.vercel.app)** ([Repo](https://github.com/RAGHAV-0202/HackFlow)) — All-in-one hackathon management platform for teams, submissions, and organizer analytics.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAGHAV-0202&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAGHAV-0202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ---
 
